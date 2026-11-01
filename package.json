@@ -1,0 +1,17 @@
+{
+  "name": "headless-dice",
+  "version": "1.0.0",
+  "description": "6-Color Probability & Predictor — Supports offline-dice.com and dice-blox.com",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site — no build step needed'",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  }
+}
